@@ -17,8 +17,6 @@ import org.junit.runner.RunWith;
                 "html:target/Relatorio-html.html"
 
         }
-
-
 )
 public class Runner {
 }
